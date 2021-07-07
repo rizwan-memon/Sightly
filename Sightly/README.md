@@ -1,4 +1,4 @@
-# BackBase
+# Sightly
 
 Preconditions to run test:
 
